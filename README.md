@@ -17,7 +17,7 @@ A simple Tampermonkey userscript that allows you to quickly copy the current web
    - [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2. Click on this link to install the script:
-   [Install Script](https://github.com/KoStard/WebsiteTitleMarkdownCopier/raw/main/script.js)
+   [Install Script](https://github.com/KoStard/WebsiteTitleMarkdownCopier/raw/master/script.js)
 
    Or manually:
    - Go to the Tampermonkey dashboard
